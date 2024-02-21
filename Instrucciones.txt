@@ -1,0 +1,11 @@
+1. Abrir el programa "XAMPP Control Panel"
+2. Click en Start Apache y MySQL
+3. Abrir phpMyAdmin, click en Importar y selecciona el archivo "sitio" que está dentro de la carpeta "bd_mysql"
+4. El paso anterior es para agregar la base de datos existente con la que se está trabajando
+5. En cmd escribir: "cd C:\Users\Bruno\Desktop\Proyectos\SitioWeb"
+6. Ejecutar en cmd "app.py"
+7. Ingresar a "http://127.0.0.1:5000/"
+8. Ctrl+C para cerrar
+9. "exit" en cmd
+
+Funciona con flask 2.3.3
